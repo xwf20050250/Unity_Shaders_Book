@@ -53,3 +53,7 @@ Icon?
 ehthumbs.db
 
 Thumbs.db
+/.vs/
+/Logs/
+/Packages/
+/.vsconfig
